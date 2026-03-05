@@ -40,6 +40,7 @@
     {"id":{"name":"obj_PowerUp","path":"objects/obj_PowerUp/obj_PowerUp.yy",},},
     {"id":{"name":"obj_RatBoss","path":"objects/obj_RatBoss/obj_RatBoss.yy",},},
     {"id":{"name":"obj_trap","path":"objects/obj_trap/obj_trap.yy",},},
+    {"id":{"name":"Object12","path":"objects/Object12/Object12.yy",},},
     {"id":{"name":"BossFight","path":"rooms/BossFight/BossFight.yy",},},
     {"id":{"name":"map1","path":"rooms/map1/map1.yy",},},
     {"id":{"name":"Map2","path":"rooms/Map2/Map2.yy",},},
