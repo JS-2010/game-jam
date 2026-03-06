@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object12",
+  "%Name":"obj_platform",
   "eventList":[],
   "managed":true,
-  "name":"Object12",
+  "name":"obj_platform",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
