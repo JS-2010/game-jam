@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object10",
+  "%Name":"background",
   "eventList":[],
   "managed":true,
-  "name":"Object10",
+  "name":"background",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Sky",
+    "path":"sprites/Sky/Sky.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
