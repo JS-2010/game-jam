@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_boss",
+  "%Name":"obj_platform1",
   "eventList":[],
   "managed":true,
-  "name":"obj_boss",
+  "name":"obj_platform1",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Sprite13",
+    "path":"sprites/Sprite13/Sprite13.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
