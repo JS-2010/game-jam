@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_RatBoss",
+  "%Name":"obj_Ratboss",
   "eventList":[],
   "managed":true,
-  "name":"obj_RatBoss",
+  "name":"obj_Ratboss",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Sprite9",
+    "path":"sprites/Sprite9/Sprite9.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
