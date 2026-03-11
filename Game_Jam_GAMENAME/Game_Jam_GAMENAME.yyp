@@ -35,13 +35,16 @@
     {"id":{"name":"obj_coin","path":"objects/obj_coin/obj_coin.yy",},},
     {"id":{"name":"obj_enemy1","path":"objects/obj_enemy1/obj_enemy1.yy",},},
     {"id":{"name":"obj_pipe","path":"objects/obj_pipe/obj_pipe.yy",},},
+
     {"id":{"name":"obj_platform1","path":"objects/obj_platform1/obj_platform1.yy",},},
     {"id":{"name":"obj_platform2","path":"objects/obj_platform2/obj_platform2.yy",},},
+
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_PlayerStart","path":"objects/obj_PlayerStart/obj_PlayerStart.yy",},},
     {"id":{"name":"obj_PowerUp","path":"objects/obj_PowerUp/obj_PowerUp.yy",},},
-    {"id":{"name":"obj_Ratboss","path":"objects/obj_Ratboss/obj_Ratboss.yy",},},
-    {"id":{"name":"Map1","path":"rooms/Map1/Map1.yy",},},
+    {"id":{"name":"obj_RatBoss","path":"objects/obj_RatBoss/obj_RatBoss.yy",},},
+    {"id":{"name":"obj_trap","path":"objects/obj_trap/obj_trap.yy",},},
+    {"id":{"name":"map1","path":"rooms/map1/map1.yy",},},
     {"id":{"name":"Map2","path":"rooms/Map2/Map2.yy",},},
     {"id":{"name":"Sewer","path":"rooms/Sewer/Sewer.yy",},},
     {"id":{"name":"bunny","path":"sprites/bunny/bunny.yy",},},
